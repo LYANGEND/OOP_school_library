@@ -60,7 +60,7 @@ Feel free to check the [issues page](../../issues)
   4. Push to the Branch (`git push -u origin feature/newFeature`)
   5. Open a Pull Request
 
-👤 **Author1**
+👤 **Author1**s
 
 - GitHub: [@githubhandle](https://github.com/LYANGEND)
 - Twitter:  [@twitterhandle](https://twitter.com/david_lyangenda)
