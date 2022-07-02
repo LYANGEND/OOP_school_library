@@ -1,4 +1,5 @@
 ## School Library System
+ In this project we learned the basic concepts of the object oriented programming language using Ruby. We learned how to create classes, objects, and methods. we learned inheritance, and how to use modules, encapsulation,abstraction and polymorphism.
 
 ## Table of Contents
 
