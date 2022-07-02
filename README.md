@@ -1,19 +1,28 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+## School Library System
+ In this project we learned the basic concepts of the object oriented programming language using Ruby. We learned how to create classes, objects, and methods. we learned inheritance, and how to use modules, encapsulation,abstraction and polymorphism.
 
-# Project Name
+## Table of Contents
 
-> Description the project.
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Getting Started](#getting-started)
+* [Contributing](#contributing)
+* [Authors](#author)
+* [Acknowledgements](#acknowledgements)
 
+## About Project
+## Screenshots
+![screenshot](./#)
+
+## School Library System is a commandline application that allows users to manage their school library.
+## [Live Demo coming soon](#)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+* Ruby
+* Rubocop
+* Rspec
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
@@ -22,35 +31,42 @@
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-To get a local copy up and running follow these simple example steps.
+ Clone this repo <git@github.com:LYANGEND/OOP_school_library.git>
 
-### Prerequisites
+    ```bash
+    git clone git@github.com:LYANGEND/OOP_school_library.git
+    ```
 
-### Setup
+* Navigate to school_library folder/directory
 
-### Install
+    ```bash
+    cd folder-name
+    ```
 
-### Usage
+* Install gems
 
-### Run tests
+    ```bash
+    bundle install
+    ```
 
-### Deployment
+## Contributing
 
+Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page](../../issues)
 
-## Authors
+  1. Fork the Project
+  2. Create your Feature Branch (`git checkout -b feature/newFeature`)
+  3. Commit your Changes (`git commit -m 'Add some newFeature'`)
+  4. Push to the Branch (`git push -u origin feature/newFeature`)
+  5. Open a Pull Request
 
-👤 **Author1**
+👤 **Author1**s
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/LYANGEND)
+- Twitter:  [@twitterhandle](https://twitter.com/david_lyangenda)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/davidlyangenda/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
